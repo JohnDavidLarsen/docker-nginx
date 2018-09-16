@@ -1,7 +1,1 @@
-stages:
-- name: test
-  steps:
-  - runScriptConfig:
-      image: node:latest
-      shellScript: /bin/bash
 timeout: 60
